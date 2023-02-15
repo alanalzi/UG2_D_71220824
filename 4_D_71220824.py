@@ -1,0 +1,8 @@
+print('!! Selamat datang di H+ GYM !!')
+print('Silahkan pilih menu dibawah ini: ')
+print('1. Menambah data')
+print('2. Menampilkan data')
+print('3. Keluar')
+pil = int(input('Silahkan masukan pilihan yang anda inginkan: '))
+np = input('Masukan nama pelanggan: ')
+jm = input('Masukan jenis member: ')
